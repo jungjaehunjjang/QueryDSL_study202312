@@ -17,7 +17,7 @@ public class Member {
     @Column(name = "member_id")
     private Long id;
 
-    private String useName;
+    private String userName;
 
     private int age;
 
